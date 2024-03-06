@@ -1,5 +1,5 @@
 Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Başarılı Top Sürme,Başarılı Top Sürme %,Yaratılan Büyük Şans,Kilit Pas,Rakip Gol Bölgesinde İsabetli Pas,Zeminde Kazanılan İkili Mücadele,Kazanılan Hava Topu Mücadelesi,Kazanılan Toplam İkili Mücadele %,Kendisine Yapılan Faul,player.name,player.slug,team.name,team.shortName
-18,17.77,116,52,15.52,20,40.0,8,31,218,58,57,44.57,25,Edin Džeko,edin-dzeko,Fenerbahçe,
+18,17.77,116,52,15.52,20,40.0,8,31,218,58,57,44.23,25,Edin Džeko,edin-dzeko,Fenerbahçe,
 15,10.57,62,25,24.19,16,47.06,5,29,146,72,58,42.07,25,Mame Thiam,mame-thiam,Pendikspor,
 14,15.38,79,32,17.72,4,33.33,7,30,115,24,42,46.15,17,Mauro Icardi,mauro-icardi,Galatasaray,
 14,10.23,69,29,20.29,11,37.93,1,7,79,74,50,44.6,56,Rey Manaj,rey-manaj,Sivasspor,
@@ -51,7 +51,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 1,1.07,11,4,9.09,8,61.54,0,4,20,14,6,34.48,5,Britt Assombalonga,britt-assombalonga,Antalyaspor,
 1,1.46,12,4,8.33,7,43.75,0,4,36,27,14,38.68,9,Brayan Riascos,brayan-riascos,Gaziantep FK,
 0,0.91,12,3,0.0,35,50.72,6,19,97,54,1,45.45,10,Moryke Fofana,moryke-fofana,Yılport Samsunspor,
-0,2.52,27,9,0.0,18,60.0,1,13,53,44,15,42.14,12,Halil Dervişoğlu,halil-dervisoglu,Hatayspor,
+0,2.52,27,9,0.0,18,58.06,1,13,53,44,14,41.43,12,Halil Dervişoğlu,halil-dervisoglu,Hatayspor,
 0,0.27,7,2,0.0,6,40.0,5,20,54,16,5,30.43,7,Ante Rebić,ante-rebic,Beşiktaş,
 0,0.59,20,6,0.0,13,44.83,4,18,70,54,2,49.56,30,Joelson Fernandes,joelson-fernandes,Hatayspor,
 0,0.73,12,5,0.0,22,48.89,0,10,68,51,14,50.78,13,Burak Kapacak,burak-kapacak,Sivasspor,
