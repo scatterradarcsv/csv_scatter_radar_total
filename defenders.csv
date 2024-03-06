@@ -13,11 +13,11 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 36,27,28,716,83.26,10,31.25,24,51.06,17,69,28,97,48.74,Sacha Boey,boey-sacha,Galatasaray,
 48,34,76,1467,85.89,2,33.33,184,55.26,3,56,35,91,52.3,Semih Güler,semih-guler,Adana Demirspor,
 22,34,48,908,87.81,0,0.0,35,39.77,10,53,40,93,57.41,Jerome Opoku,opoku-jerome,Başakşehir FK,
-25,44,111,743,85.21,0,0.0,55,49.55,7,42,65,107,64.07,Caner Osmanpaşa,caner-osmanpasa,Sivasspor,
+25,44,111,743,85.21,0,0.0,55,49.55,6,41,65,106,63.86,Caner Osmanpaşa,caner-osmanpasa,Sivasspor,
 31,28,34,462,74.76,19,21.11,46,42.59,3,46,22,68,52.31,Zeki Yavru,zeki-yavru,Yılport Samsunspor,
 42,36,45,752,80.26,19,18.63,36,37.5,7,56,14,70,49.3,Güray Vural,guray-vural,Antalyaspor,
 18,19,14,368,81.24,4,16.67,16,50.0,6,34,8,42,47.19,Mert Müldür,mert-muldur,Fenerbahçe,
-28,32,90,622,77.56,0,0.0,66,38.15,4,34,40,74,62.18,Kenneth Omeruo,kenneth-omeruo,Kasımpaşa,
+28,32,90,622,77.56,0,0.0,66,38.15,4,34,40,74,61.67,Kenneth Omeruo,kenneth-omeruo,Kasımpaşa,
 37,21,66,947,87.28,5,62.5,46,42.99,5,62,46,108,64.67,Necip Uysal,necip-uysal,Beşiktaş,
 28,18,59,725,87.14,0,0.0,62,59.05,4,42,17,59,54.13,Ibrahim Drešević,ibrahim-dresevic,,Fatih Karagümrük
 72,37,49,934,78.55,16,23.53,49,33.33,25,120,19,139,57.2,Münir Levent Mercan,munir-levent-mercan,,Fatih Karagümrük
@@ -27,7 +27,7 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 28,19,21,541,84.01,5,38.46,19,42.22,6,56,23,79,58.96,Jonas Svensson,jonas-svensson,,Beşiktaş
 18,20,88,748,82.47,0,0.0,67,44.97,5,34,43,77,53.85,Attila Mocsi,attila-mocsi,,Çaykur Rizespor
 37,25,110,615,78.54,0,0.0,45,34.09,0,53,53,106,60.57,Arda Kızıldağ,arda-kizildag,,Gaziantep FK
-33,19,24,671,73.09,13,18.06,36,39.13,28,87,42,129,53.97,Mortadha Ben Ouanes,mortadha-ben-ouanes,,Kasımpaşa
+33,19,24,671,73.09,13,18.06,36,39.13,29,88,42,130,53.94,Mortadha Ben Ouanes,mortadha-ben-ouanes,,Kasımpaşa
 42,26,39,685,81.45,16,38.1,37,50.0,13,75,15,90,55.9,Bünyamin Balcı,bunyamin-balci,,Antalyaspor
 50,39,108,1157,83.6,1,50.0,87,40.65,4,73,55,128,56.89,Veysel Sarı,veysel-sari,,Antalyaspor
 43,36,91,665,80.12,0,0.0,49,37.98,4,63,40,103,59.2,Uğurcan Yazğılı,ugurcan-yazgili,,Konyaspor
@@ -59,12 +59,12 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 48,34,53,614,79.64,13,30.95,38,41.76,20,103,32,135,57.45,Eren Elmalı,eren-elmali,Trabzonspor,
 40,35,68,712,78.5,17,22.08,54,41.86,19,70,18,88,49.72,Muhammet Taha Şahin,muhammet-taha-sahin,Çaykur Rizespor,
 37,17,23,381,81.06,6,25.0,36,54.55,18,72,10,82,58.57,Stelios Kitsiou,stelios-kitsiou,MKE Ankaragücü,
-59,12,58,747,78.47,19,21.11,48,44.44,19,92,9,101,54.3,Uğur Çiftçi,ugur-ciftci,Sivasspor,
+59,12,58,746,78.36,19,21.11,48,44.44,19,92,9,101,54.3,Uğur Çiftçi,ugur-ciftci,Sivasspor,
 33,28,57,770,81.83,3,18.75,49,44.14,8,57,39,96,55.81,Davide Biraschi,davide-biraschi,Fatih Karagümrük,
 32,34,159,752,74.75,1,20.0,79,37.09,8,54,41,95,58.28,Mehmet Yeşil,mehmet-yesil,İstanbulspor,
 29,15,29,555,81.74,7,18.92,40,47.06,6,51,8,59,55.14,Florent Hadergjonaj,florent-hadergjonaj,Alanyaspor,
 6,8,49,566,90.85,0,0.0,22,61.11,2,15,21,36,64.29,Daniel Amartey,daniel-amartey,Beşiktaş,
-59,35,63,614,72.15,13,17.11,51,34.93,30,116,44,160,50.16,Cláudio Winck,claudio-winck,Kasımpaşa,
+59,35,63,614,72.15,13,17.11,51,34.93,30,116,45,161,50.31,Cláudio Winck,claudio-winck,Kasımpaşa,
 37,32,67,1215,86.72,1,33.33,70,42.17,6,61,33,94,54.97,Nihad Mujakić,nihad-mujakic,MKE Ankaragücü,
 29,14,33,409,76.74,21,21.88,28,37.33,5,41,4,45,42.86,Casper Højer,casper-hojer,Çaykur Rizespor,
 19,27,33,788,82.25,4,16.0,61,53.51,8,43,26,69,54.33,Lionel Carole,lionel-carole,Kayserispor,
@@ -90,7 +90,7 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 26,7,30,299,81.92,6,16.67,16,57.14,5,38,7,45,47.87,Halil Ibrahim Pehlivan,halil-ibrahim-pehlivan,,Çaykur Rizespor
 24,21,78,737,85.2,0,0.0,62,44.6,0,30,28,58,55.77,Furkan Bayır,furkan-bayir,,Alanyaspor
 17,14,65,660,83.86,0,0.0,49,41.53,1,27,31,58,56.31,Berkay Sülüngöz,berkay-sulungoz,,Pendikspor
-53,35,85,847,78.79,4,21.05,56,35.22,6,71,50,121,54.26,Yasin Özcan,yasin-ozcan,,Kasımpaşa
+53,35,85,847,78.79,4,21.05,56,35.44,6,71,51,122,54.22,Yasin Özcan,yasin-ozcan,,Kasımpaşa
 21,14,45,537,84.57,0,0.0,34,43.59,2,29,22,51,54.84,Burak Bekaroğlu,burak-bekaroglu,,Hatayspor
 29,26,53,504,81.42,9,29.03,28,37.33,3,46,11,57,48.31,Ali Yaşar,ali-yasar,,İstanbulspor
 16,11,27,453,80.75,7,21.21,35,44.87,3,29,7,36,48.0,Frédéric Veseli,frederic-veseli,,Fatih Karagümrük
