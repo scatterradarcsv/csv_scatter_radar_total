@@ -1,6 +1,6 @@
 Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli Orta,İsabetli Orta %,İsabetli Uzun Top,İsabetli Uzun Top %,Başarılı Top Sürme,Zeminde Kazanılan İkili Mücadele,Kazanılan Hava Topu Mücadelesi,Kazanılan Toplam İkili Mücadele,Kazanılan Toplam İkili Mücadele %,player.name,player.slug,team.name,team.shortName
 54,26,42,1244,84.74,18,32.73,75,61.48,47,146,21,167,60.07,Ferdi Kadıoğlu,ferdi-kadioglu,Fenerbahçe,
-59,42,53,757,75.7,57,35.19,68,47.89,19,93,21,114,64.04,Guilherme Haubert Sityá,guilherme-haubert-sitya,Konyaspor,
+61,44,56,781,75.53,60,35.5,69,47.26,19,95,21,116,63.39,Guilherme Haubert Sityá,guilherme-haubert-sitya,Konyaspor,
 22,24,48,871,83.91,5,33.33,65,47.45,11,49,68,117,62.57,Abdülkerim Bardakcı,abdulkerim-bardakci,Galatasaray,
 20,23,62,894,88.43,0,0.0,43,44.33,1,32,33,65,57.52,Omar Colley,omar-colley,Beşiktaş,
 58,62,139,1011,77.65,2,28.57,117,44.83,6,90,64,154,59.69,Emirhan Topçu,emirhan-topcu,Çaykur Rizespor,
@@ -30,16 +30,16 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 33,19,24,671,73.09,13,18.06,36,39.13,29,88,42,130,53.94,Mortadha Ben Ouanes,mortadha-ben-ouanes,,Kasımpaşa
 42,26,39,685,81.45,16,38.1,37,50.0,13,75,15,90,55.9,Bünyamin Balcı,bunyamin-balci,,Antalyaspor
 50,39,107,1158,83.61,1,50.0,86,40.38,4,73,55,128,56.64,Veysel Sarı,veysel-sari,,Antalyaspor
-43,36,91,664,80.1,0,0.0,48,37.5,4,63,40,103,59.54,Uğurcan Yazğılı,ugurcan-yazgili,,Konyaspor
 12,7,14,302,79.06,26,26.26,17,42.5,3,21,22,43,58.11,Faouzi Ghoulam,faouzi-ghoulam,,Hatayspor
 29,58,124,764,72.28,5,33.33,107,36.27,4,39,62,101,65.58,Papy Djilobodji,papy-djilobodji,,Gaziantep FK
+47,40,94,691,79.98,0,0.0,50,37.31,4,67,41,108,59.02,Uğurcan Yazğılı,ugurcan-yazgili,,Konyaspor
 19,15,55,553,84.56,0,0.0,31,41.89,4,37,51,88,72.73,Bahadır Öztürk,bahadir-ozturk,,Antalyaspor
 26,18,66,736,81.96,0,0.0,60,44.44,3,39,50,89,53.61,Rick Van Drongelen,rick-van-drongelen,,Yılport Samsunspor
 25,13,30,739,79.81,18,23.08,76,48.72,23,75,12,87,55.06,Léo Dubois,leo-dubois,,Başakşehir FK
 39,20,24,644,82.78,7,17.5,18,38.3,48,110,18,128,55.9,Loide Augusto,loide-augusto,,Alanyaspor
 21,12,68,470,83.78,1,100.0,50,53.19,2,24,24,48,59.26,Samba Camara,samba-camara,,Sivasspor
-19,6,3,223,76.11,5,15.63,8,42.11,17,48,9,57,53.27,David Sambissa,david-sambissa,,İstanbulspor
-28,24,66,992,85.22,1,33.33,96,55.17,11,53,22,75,50.68,Andreaw Gravillon,andreaw-gravillon,Adana Demirspor,
+29,24,68,1047,84.98,1,33.33,104,55.32,12,57,25,82,52.23,Andreaw Gravillon,andreaw-gravillon,,Adana Demirspor
+19,6,3,223,76.11,5,15.63,8,42.11,17,48,9,57,53.27,David Sambissa,david-sambissa,İstanbulspor,
 46,25,30,332,76.67,0,0.0,22,38.6,5,64,25,89,54.94,Júnior Morais,junior-morais,Gaziantep FK,
 28,33,127,1090,88.83,0,0.0,60,48.78,3,42,55,97,65.99,Uroš Radaković,uros-radakovic,MKE Ankaragücü,
 20,16,58,751,85.63,0,0.0,54,41.22,2,31,22,53,53.54,Ömer Toprak,omer-toprak,Antalyaspor,
