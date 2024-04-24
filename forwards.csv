@@ -1,5 +1,5 @@
 Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Başarılı Top Sürme,Başarılı Top Sürme %,Yaratılan Büyük Şans,Kilit Pas,Rakip Gol Bölgesinde İsabetli Pas,Zeminde Kazanılan İkili Mücadele,Kazanılan Hava Topu Mücadelesi,Kazanılan Toplam İkili Mücadele %,Kendisine Yapılan Faul,player.name,player.slug,team.name,team.shortName
-20,19.67,137,59,14.6,22,39.29,9,35,253,71,72,45.4,33,Edin Džeko,edin-dzeko,Fenerbahçe,
+20,19.74,137,59,14.6,22,39.29,9,35,253,71,72,45.4,33,Edin Džeko,edin-dzeko,Fenerbahçe,
 20,19.34,95,42,21.05,5,35.71,8,41,148,31,50,47.65,21,Mauro Icardi,mauro-icardi,Galatasaray,
 17,12.56,76,34,22.37,16,43.24,3,10,99,95,47,45.37,68,Rey Manaj,rey-manaj,Sivasspor,
 16,11.34,75,30,21.33,17,44.74,7,33,190,87,76,43.58,28,Mame Thiam,mame-thiam,Pendikspor,
@@ -11,13 +11,13 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 10,4.71,50,21,20.0,31,50.82,2,12,68,64,17,37.67,23,Semih Kılıçsoy,semih-kilicsoy,Beşiktaş,
 10,10.51,41,23,24.39,3,42.86,1,4,48,11,6,34.0,3,Michy Batshuayi,michy-batshuayi,Fenerbahçe,
 9,3.91,45,19,20.0,41,53.95,2,22,178,107,5,55.17,39,Wilfried Zaha,wilfried-zaha,Galatasaray,
-9,3.25,37,18,24.32,7,31.82,4,20,125,28,5,37.93,10,Cengiz Ünder,cengiz-under,Fenerbahçe,
+9,3.25,37,18,24.32,7,31.82,4,20,125,28,4,36.78,10,Cengiz Ünder,cengiz-under,Fenerbahçe,
 8,5.77,45,15,17.78,9,64.29,2,12,51,37,80,48.35,23,Paul Onuachu,paul-onuachu,Trabzonspor,
 8,5.93,30,15,26.67,6,46.15,0,9,41,19,14,35.48,10,M'Baye Niang,mbaye-niang,Adana Demirspor,
 7,4.83,55,19,12.73,37,45.68,2,26,163,85,22,39.05,34,Güven Yalçın,guven-yalcin,Fatih Karagümrük,
 7,5.09,42,18,16.67,16,32.65,5,28,156,89,22,43.02,53,João Figueiredo,joao-figueiredo,Başakşehir FK,
 7,8.84,65,25,10.77,10,43.48,1,10,87,36,89,35.21,21,Marius Mouandilmadji,marius-mouandilmadji,Yılport Samsunspor,
-6,5.07,33,21,18.18,13,52.0,3,15,97,49,33,53.25,27,Bengali-Fodé Koita,bengali-fode-koita,Sivasspor,
+6,5.01,33,21,18.18,14,53.85,3,15,97,50,34,53.5,27,Bengali-Fodé Koita,bengali-fode-koita,Sivasspor,
 6,5.12,39,20,15.38,8,47.06,0,13,104,52,77,52.23,32,Enis Destan,enis-destan,Trabzonspor,
 6,5.33,36,17,16.67,12,60.0,2,8,51,32,23,41.04,13,Adolfo Gaich,adolfo-gaich,,Çaykur Rizespor
 6,7.14,30,12,20.0,15,48.39,2,6,40,44,33,43.02,20,Erencan Yardımcı,erencan-yardimci,,Pendikspor
@@ -25,7 +25,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 5,2.67,19,9,26.32,11,36.67,1,14,90,27,3,38.46,9,Nicolas Pépé,nicolas-pepe,,Trabzonspor
 5,3.21,27,11,18.52,25,52.08,10,28,165,84,36,48.19,13,Rigoberto Rivas,rigoberto-rivas,,Hatayspor
 5,4.85,45,19,11.11,19,54.29,3,13,87,45,32,32.77,20,Ali Sowe,ali-sowe,,MKE Ankaragücü
-5,5.77,34,14,14.71,3,37.5,2,7,66,29,11,43.48,23,Serdar Dursun,serdar-dursun,,Fenerbahçe
+5,5.77,34,14,14.71,3,37.5,2,7,67,29,12,44.57,23,Serdar Dursun,serdar-dursun,,Fenerbahçe
 4,2.96,26,10,15.38,11,52.38,1,6,72,27,26,42.74,15,Vincent Aboubakar,vincent-aboubakar,,Beşiktaş
 4,4.18,31,11,12.9,22,59.46,2,12,81,95,26,51.71,41,Carlos Eduardo,carlos-eduardo,,Alanyaspor
 4,5.39,25,13,16.0,12,50.0,1,14,74,39,41,39.02,20,Renat Dadaşov,renat-dadasov,,Hatayspor
