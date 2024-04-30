@@ -13,13 +13,13 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 52,40,88,1664,85.51,2,33.33,211,55.82,4,62,42,104,52.26,Semih Güler,semih-guler,Adana Demirspor,
 24,43,62,1282,88.54,2,40.0,56,44.09,16,66,53,119,57.77,Jerome Opoku,opoku-jerome,Başakşehir FK,
 26,27,37,842,84.12,10,31.25,73,54.89,6,43,48,91,56.17,Kaan Ayhan,kaan-ayhan,Galatasaray,
-46,39,45,604,73.48,29,22.48,62,42.18,7,68,37,105,56.45,Zeki Yavru,zeki-yavru,Yılport Samsunspor,
+46,39,46,604,73.48,29,22.48,62,42.18,8,69,37,106,57.3,Zeki Yavru,zeki-yavru,Yılport Samsunspor,
 37,17,22,473,87.43,4,50.0,11,52.38,22,84,13,97,60.25,Bright Osayi-Samuel,bright-osayi-samuel,Fenerbahçe,
 32,17,91,596,84.54,1,100.0,69,55.2,3,36,31,67,60.91,Samba Camara,samba-camara,Sivasspor,
 36,22,35,679,84.14,7,38.89,27,43.55,8,75,29,104,61.54,Jonas Svensson,jonas-svensson,Beşiktaş,
 44,26,82,1134,86.7,5,50.0,59,43.38,7,78,58,136,64.45,Necip Uysal,necip-uysal,Beşiktaş,
 48,26,41,721,81.38,17,35.42,38,50.0,14,85,16,101,56.11,Bünyamin Balcı,bunyamin-balci,Antalyaspor,
-37,28,31,849,73.25,20,20.83,41,39.81,31,97,52,149,52.1,Mortadha Ben Ouanes,mortadha-ben-ouanes,,Kasımpaşa
+37,28,32,849,73.32,20,20.83,41,40.2,31,97,52,149,52.1,Mortadha Ben Ouanes,mortadha-ben-ouanes,,Kasımpaşa
 28,18,59,725,87.14,0,0.0,62,59.05,4,42,17,59,54.13,Ibrahim Drešević,ibrahim-dresevic,,Fatih Karagümrük
 14,18,62,1192,90.65,0,0.0,80,55.17,2,33,53,86,61.43,Stefano Denswil,stefano-denswil,,Trabzonspor
 26,45,114,772,85.4,0,0.0,51,48.11,6,44,67,111,63.07,Caner Osmanpaşa,caner-osmanpasa,,Sivasspor
@@ -44,7 +44,7 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 21,20,17,421,80.34,7,22.58,18,50.0,7,39,14,53,50.0,Mert Müldür,mert-muldur,Fenerbahçe,
 10,20,156,755,82.97,0,0.0,87,44.85,1,14,39,53,50.96,Aaron Appindangoyé,aaron-appindangoye,Sivasspor,
 26,16,17,329,80.64,7,31.82,33,52.38,5,41,8,49,62.03,Ömer Ali Şahiner,omer-ali-sahiner,Başakşehir FK,
-36,21,87,926,79.9,0,0.0,79,41.15,4,52,69,121,51.05,Rick Van Drongelen,rick-van-drongelen,Yılport Samsunspor,
+37,22,87,926,79.9,0,0.0,79,41.15,4,53,68,121,50.84,Rick Van Drongelen,rick-van-drongelen,Yılport Samsunspor,
 23,20,64,921,87.13,0,0.0,63,44.06,3,37,22,59,55.14,Ömer Toprak,omer-toprak,Antalyaspor,
 25,13,32,834,80.81,20,23.26,80,48.78,23,76,14,90,54.88,Léo Dubois,leo-dubois,Başakşehir FK,
 35,69,143,904,73.26,5,33.33,118,35.87,5,49,66,115,65.34,Papy Djilobodji,papy-djilobodji,Gaziantep FK,
@@ -70,7 +70,7 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 37,17,53,770,80.63,5,19.23,39,33.05,19,76,30,106,55.79,Jayden Oosterwolde,jayden-oosterwolde,,Fenerbahçe
 27,15,29,368,79.83,8,26.67,45,52.33,3,34,10,44,53.01,Alaaddin Okumuş,alaaddin-okumus,,Sivasspor
 38,34,192,887,74.92,1,20.0,94,37.6,10,67,44,111,59.36,Mehmet Yeşil,mehmet-yesil,,İstanbulspor
-72,40,70,726,71.74,16,16.49,62,36.26,37,144,55,199,51.29,Cláudio Winck,claudio-winck,,Kasımpaşa
+72,39,70,727,71.77,16,16.49,62,36.26,37,144,55,199,51.29,Cláudio Winck,claudio-winck,,Kasımpaşa
 23,32,38,855,81.51,4,15.38,64,53.33,8,47,32,79,55.24,Lionel Carole,lionel-carole,,Kayserispor
 40,18,42,518,77.08,27,23.68,34,36.56,7,58,4,62,43.97,Casper Højer,casper-hojer,,Çaykur Rizespor
 24,33,86,785,77.88,1,50.0,67,39.18,7,39,59,98,54.75,Ľubomír Šatka,ubomir-satka,,Yılport Samsunspor
@@ -86,7 +86,7 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 17,12,24,211,70.81,2,8.33,13,28.26,8,32,6,38,57.58,Marc Bola,marc-bola,,Yılport Samsunspor
 30,19,45,816,76.62,15,31.91,52,32.1,8,55,32,87,52.73,Lucas Lima,lucas-lima,,Başakşehir FK
 24,11,7,350,75.11,6,13.95,11,36.67,24,64,17,81,49.09,David Sambissa,david-sambissa,,İstanbulspor
-60,44,99,1063,78.33,4,21.05,69,35.75,8,84,65,149,53.99,Yasin Özcan,yasin-ozcan,,Kasımpaşa
+61,44,98,1064,78.29,4,21.05,69,35.75,8,84,65,149,53.99,Yasin Özcan,yasin-ozcan,,Kasımpaşa
 16,14,21,577,83.02,12,35.29,24,32.43,7,31,13,44,51.16,Matěj Hanousek,matej-hanousek,,MKE Ankaragücü
 9,10,51,300,80.43,0,0.0,18,42.86,0,23,24,47,64.38,Sadık Çiftpınar,sadik-ciftpinar,,Kasımpaşa
 9,10,19,353,81.71,3,15.79,24,50.0,1,13,18,31,62.0,Jens Stryger Larsen,jens-stryger-larsen,,Trabzonspor
