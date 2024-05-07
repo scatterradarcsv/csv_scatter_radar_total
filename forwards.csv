@@ -1,6 +1,6 @@
 Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Başarılı Top Sürme,Başarılı Top Sürme %,Yaratılan Büyük Şans,Kilit Pas,Rakip Gol Bölgesinde İsabetli Pas,Zeminde Kazanılan İkili Mücadele,Kazanılan Hava Topu Mücadelesi,Kazanılan Toplam İkili Mücadele %,Kendisine Yapılan Faul,player.name,player.slug,team.name,team.shortName
 23,20.67,103,46,22.33,6,40.0,9,47,166,34,52,48.04,23,Mauro Icardi,mauro-icardi,Galatasaray,
-20,20.8,144,62,13.89,22,39.29,10,37,265,73,79,45.65,34,Edin Džeko,edin-dzeko,Fenerbahçe,
+20,20.7,144,62,13.89,22,39.29,10,37,265,73,79,45.78,34,Edin Džeko,edin-dzeko,Fenerbahçe,
 18,13.12,85,37,21.18,16,40.0,4,11,103,102,56,45.4,75,Rey Manaj,rey-manaj,Sivasspor,
 17,12.0,81,32,20.99,18,46.15,7,34,206,92,85,44.36,28,Mame Thiam,mame-thiam,Pendikspor,
 15,12.1,89,37,16.85,25,45.45,2,18,125,104,93,43.58,67,Adam Buksa,adam-buksa,Antalyaspor,
@@ -9,7 +9,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 12,11.21,95,35,12.63,80,52.63,8,35,182,171,66,40.24,39,Denis Drăguş,denis-dragus,Gaziantep FK,
 11,7.65,52,19,21.15,11,68.75,2,13,55,42,88,49.06,26,Paul Onuachu,paul-onuachu,Trabzonspor,
 11,10.26,54,18,20.37,21,46.67,5,24,122,64,40,33.33,24,Sokol Cikalleshi,sokol-cikalleshi,Konyaspor,
-11,10.97,45,25,24.44,5,50.0,1,8,63,15,6,32.81,4,Michy Batshuayi,michy-batshuayi,Fenerbahçe,
+11,10.94,45,25,24.44,5,50.0,1,8,63,15,6,32.81,4,Michy Batshuayi,michy-batshuayi,Fenerbahçe,
 10,4.86,53,22,18.87,35,48.61,3,14,78,79,18,37.6,30,Semih Kılıçsoy,semih-kilicsoy,Beşiktaş,
 9,3.91,45,19,20.0,41,53.95,2,22,178,107,5,55.17,39,Wilfried Zaha,wilfried-zaha,Galatasaray,
 8,5.93,30,15,26.67,6,46.15,0,9,41,19,14,35.48,10,M'Baye Niang,mbaye-niang,Adana Demirspor,
@@ -24,7 +24,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 5,3.59,53,17,9.43,60,56.07,9,41,252,150,59,49.88,39,Barış Alper Yılmaz,baris-alper-yilmaz,,Galatasaray
 5,2.81,21,10,23.81,12,37.5,1,14,109,33,4,38.95,13,Nicolas Pépé,nicolas-pepe,,Trabzonspor
 5,4.92,46,19,10.87,19,51.35,4,16,93,48,33,32.27,21,Ali Sowe,ali-sowe,,MKE Ankaragücü
-5,5.79,35,15,14.29,3,37.5,2,9,70,31,12,44.79,24,Serdar Dursun,serdar-dursun,,Fenerbahçe
+5,5.79,35,15,14.29,3,37.5,2,9,70,31,13,45.36,24,Serdar Dursun,serdar-dursun,,Fenerbahçe
 5,5.68,26,14,19.23,12,50.0,1,14,75,39,42,38.39,20,Renat Dadaşov,renat-dadasov,,Hatayspor
 4,4.19,31,11,12.9,22,57.89,2,13,82,96,26,51.69,42,Carlos Eduardo,carlos-eduardo,,Alanyaspor
 4,2.96,26,10,15.38,11,50.0,1,6,72,27,26,42.4,15,Vincent Aboubakar,vincent-aboubakar,,Beşiktaş
