@@ -1,5 +1,5 @@
 Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli Orta,İsabetli Orta %,İsabetli Uzun Top,İsabetli Uzun Top %,Başarılı Top Sürme,Zeminde Kazanılan İkili Mücadele,Kazanılan Hava Topu Mücadelesi,Kazanılan Toplam İkili Mücadele,Kazanılan Toplam İkili Mücadele %,player.name,player.slug,team.name,team.shortName
-75,35,58,1690,84.8,24,35.29,103,59.88,57,193,26,219,59.84,Ferdi Kadıoğlu,ferdi-kadioglu,Fenerbahçe,
+75,35,58,1690,84.8,24,35.29,103,59.88,57,193,26,219,60.0,Ferdi Kadıoğlu,ferdi-kadioglu,Fenerbahçe,
 86,50,79,1044,75.98,82,34.17,96,46.15,29,130,26,156,60.0,Guilherme Haubert Sityá,guilherme-haubert-sitya,Konyaspor,
 62,64,147,1079,77.74,2,25.0,140,47.95,5,93,72,165,57.29,Emirhan Topçu,emirhan-topcu,Çaykur Rizespor,
 25,32,72,1248,85.13,6,35.29,84,45.41,11,54,87,141,60.0,Abdülkerim Bardakcı,abdulkerim-bardakci,Galatasaray,
@@ -17,7 +17,7 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 29,28,55,722,83.76,0,0.0,56,44.8,12,48,41,89,62.68,Francisco Calvo,francisco-calvo,Konyaspor,
 47,39,46,634,73.13,30,21.74,66,41.51,8,71,39,110,57.29,Zeki Yavru,zeki-yavru,Yılport Samsunspor,
 39,53,75,1123,84.95,0,0.0,96,56.14,4,63,60,123,61.19,Alexander Djiku,alexander-djiku,Fenerbahçe,
-41,17,26,554,87.38,4,40.0,13,52.0,26,98,13,111,58.12,Bright Osayi-Samuel,bright-osayi-samuel,Fenerbahçe,
+41,17,26,555,87.4,4,40.0,13,52.0,26,99,13,112,58.33,Bright Osayi-Samuel,bright-osayi-samuel,Fenerbahçe,
 48,26,41,721,81.38,17,35.42,38,50.0,14,85,16,101,56.11,Bünyamin Balcı,bunyamin-balci,Antalyaspor,
 28,18,59,725,87.14,0,0.0,62,59.05,4,42,17,59,54.13,Ibrahim Drešević,ibrahim-dresevic,,Fatih Karagümrük
 28,46,115,778,85.21,0,0.0,51,47.66,6,46,67,113,63.13,Caner Osmanpaşa,caner-osmanpasa,,Sivasspor
@@ -43,7 +43,7 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 82,43,69,1176,78.66,20,23.26,68,35.42,37,145,26,171,56.25,Münir Levent Mercan,munir-levent-mercan,Fatih Karagümrük,
 39,29,130,720,78.69,0,0.0,52,34.21,0,58,62,120,58.54,Arda Kızıldağ,arda-kizildag,Gaziantep FK,
 35,17,83,453,80.32,0,0.0,33,39.29,4,45,33,78,58.21,Ertuğrul Ersoy,ertugrul-ersoy,Gaziantep FK,
-10,9,28,654,91.09,0,0.0,31,50.82,2,24,29,53,66.25,Rodrigo Becão,rodrigo-becao,Fenerbahçe,
+10,10,28,655,91.23,0,0.0,31,50.82,2,24,29,53,66.25,Rodrigo Becão,rodrigo-becao,Fenerbahçe,
 44,27,138,1523,87.13,0,0.0,125,47.89,14,80,63,143,59.09,Guy-Marcelin Kilama,guy-marcelin-kilama,Hatayspor,
 54,42,54,1120,82.78,27,19.29,49,42.24,8,71,17,88,46.07,Güray Vural,guray-vural,Antalyaspor,
 29,11,31,624,83.76,17,18.68,53,61.63,9,44,21,65,56.03,Erdem Özgenç,erdem-ozgenc,Pendikspor,
